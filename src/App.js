@@ -41,7 +41,7 @@ function App() {
   return (
     <div>
       <div className="header">
-        <a href="https://github.com/GeneHFang/sPoNgIfIeR" target="_blank"><img src={logo} alt="github"/></a>
+        <a href="https://github.com/GeneHFang/sPoNgIfIeR" target="_blank" rel="noopener noreferrer"><img src={logo} alt="github"/></a>
       </div>
       <div className="App">
         <h1>sPoNgIfY yOuR tExT</h1>
