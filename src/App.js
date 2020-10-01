@@ -41,7 +41,7 @@ function App() {
   return (
     <div>
       <div className="header">
-        <img src={logo} />
+        <a href="https://github.com/GeneHFang/sPoNgIfIeR" target="_blank"><img src={logo} alt="github"/></a>
       </div>
       <div className="App">
         <h1>sPoNgIfY yOuR tExT</h1>
